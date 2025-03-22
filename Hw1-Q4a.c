@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int computeHomeValue(int a, int b);
+int computeHomeValue(int popularity, int size);
 
 int main()
 {
